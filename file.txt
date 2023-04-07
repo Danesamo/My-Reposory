@@ -1,0 +1,1 @@
+Ceci est une demo pour transferer nos projets sur github en utilisant git sur ubuntu.
